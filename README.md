@@ -9,8 +9,16 @@ Want to contribute?
 Yes you can ofc!
 Let me explain how!
 Add me on discord 
+
 ObjectToons#2908
 
 Show me proof of your TheoTown forum account being logged in!
 And then I will invite you to a group chat!
+
 Status: Accepting new contribtuors!
+
+Contributions:
+
+Textures: Needed
+LUA: Needed
+JSON: Needed
